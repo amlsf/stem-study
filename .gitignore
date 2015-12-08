@@ -1,0 +1,7 @@
+# CSV files - most are too large
+*.csv
+
+# Exception - final modeling files
+!dftomodel_femaleall.csv
+!dftomodel_maleall.csv
+
