@@ -4,4 +4,6 @@
 # Exception - final modeling files
 !dftomodel_femaleall.csv
 !dftomodel_maleall.csv
+!dftomodel_femaleunder25.csv
+!dftomodel_femaleover25.csv
 
