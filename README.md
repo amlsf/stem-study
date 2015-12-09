@@ -4,24 +4,12 @@
 
 
 
-Gioia Dominedo
-
-[@dominedo](https://github.com/dominedo)
-
-dominedo@g.harvard.edu
+**Gioia Dominedo**  |  [@dominedo](https://github.com/dominedo)  |  dominedo@g.harvard.edu
 
 
 
-Amy Lee
-
-[@amlsf](https://github.com/amlsf)
-
-amymaelee@g.harvard.edu
+**Amy Lee**  |  [@amlsf](https://github.com/amlsf)  |  amymaelee@g.harvard.edu
 
 
 
-Kendrick Lo
-
-[@ppgmg](https://github.com/ppgmg)
-
-klo@g.harvard.edu
+**Kendrick Lo**  |  [@ppgmg](https://github.com/ppgmg)  |  klo@g.harvard.edu
