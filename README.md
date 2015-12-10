@@ -5,7 +5,7 @@
 This repository includes all relevant files for our final project.
 
 - iPython process book: `process_book.ipynb`
-- Data: The `data` subfolder includes the (clean) dataset that was used in our analysis. The original 2010 US Census microdata is too large to include here, but can be accessed [here](https://copy.com/31nVAgdrBtZcgADm) (~zipped, 1.28GB). Links to intermediate datasets saved at various stages of the data wrangling process are also included in our process book.
+- Data: The `data` subfolder includes the (clean) dataset that was used in our analysis. The original 2010 US Census microdata is too large to include here, but can be accessed [here](https://copy.com/31nVAgdrBtZcgADm) (zipped, ~1.28GB). Links to intermediate datasets saved at various stages of the data wrangling process are also included in our process book.
 
 Please also refer to the following:
 
@@ -19,4 +19,3 @@ Gioia Dominedo  |  [@dominedo](https://github.com/dominedo)  |  dominedo@g.harva
 Amy Lee  |  [@amlsf](https://github.com/amlsf)  |  amymaelee@g.harvard.edu
 
 Kendrick Lo  |  [@ppgmg](https://github.com/ppgmg)  |  klo@g.harvard.edu
-
